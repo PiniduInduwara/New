@@ -1,0 +1,35 @@
+#calcBtn{
+	align-items: center;
+	text-align: center;
+	border-radius: 8px;
+	color: rgb(255, 255, 255);
+	background-color:#1800a3;
+	height: 40px;
+	width:200px;
+	transition-duration: 0.4s;
+}
+
+#calcBtn2{
+	align-items: center;
+	
+	border-radius: 8px;
+	color: rgb(255, 255, 255);
+	background-color:#1800a3;
+	height: 40px;
+	width:200px;
+	transition-duration: 0.4s;
+}
+
+#calcForm{
+	max-width: 800px;
+	padding: 16px;
+	background-color: rgb(87, 152, 238);
+	opacity: 0.8;
+  }
+
+.calcPage{
+	background: linear-gradient(rgba(119, 118, 118, 0.7),rgba(138, 136, 136, 0.7)),url("https://www.elitecme.com/wp-content/uploads/sites/4/2018/06/medical_billing-494561744_900x.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
